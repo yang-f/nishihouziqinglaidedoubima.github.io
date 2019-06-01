@@ -30972,7 +30972,7 @@ Y.hD.prototype={
 b3:function(){return new Y.C1(C.x)}}
 Y.C1.prototype={
 X:function(a){var u=null
-return new R.r6(M.rM(M.rM(u,S.rk(u,u,u,u,u,new X.m6(new L.lL("logo.png")),C.P),100,u,200),u,u,u,u),u)},
+return new R.r6(M.rM(M.rM(u,S.rk(u,u,u,u,u,new X.m6(new L.lL("logo.png")),C.P),50,u,100),u,u,u,u),u)},
 $aap:function(){return[Y.hD]}}
 N.b0.prototype={
 gp:function(a){return this.b},
